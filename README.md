@@ -1,6 +1,4 @@
-Netgear 梅林固件添加自定义hosts
-2019年06月06日 标签：路由
-目前固件暂未支持该功能，需要手动操作实现。
+K3 Merlin enable hosts:
 
 1. 开启JFFS 和 SSH 登录
 系统管理 > 系统设置 。。。 
